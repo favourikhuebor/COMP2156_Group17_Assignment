@@ -1,0 +1,1 @@
+Learning DevOps is important because it promotes better collaboration, speeds up software releases and minimizes errors. DevOps speeds up software updates by automating several tasks such as testing and deployment.

@@ -1,0 +1,2 @@
+
+The COMP 3104 course teaches students about DevOps, depicting the collaboration between software development and IT operations. This course covers key topics such as version control, CI/CD and automation tools, along with containers (e.g., Docker) and cloud computing. 
