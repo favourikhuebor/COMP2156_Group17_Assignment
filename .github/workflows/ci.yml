@@ -20,7 +20,9 @@ jobs:
 
       - run: echo " The job was triggered by a ${{ github.event_name }} event."
       - run: echo " Running on a ${{ runner.os }} GitHub-hosted server."
-      - run: echo " Branch name: ${{ github.ref }}, Repository: ${{ github.repository }}."
+      - run: |
+          echo "Branch name: ${{ github.ref }}, Repository: ${{ github.repository }}."
+
 
       - name: List Repository Files
         run: ls ${{ github.workspace }}
