@@ -42,4 +42,5 @@ jobs:
         run: npm test || echo "⚠️ No tests found, skipping test step"
 
       - name: CI Workflow Status
-        run: echo "✅ CI pipeline completed with status: ${{ job.status }}"
+        run: |
+          echo "✅ CI pipeline completed with status: ${{ job.status }}"
