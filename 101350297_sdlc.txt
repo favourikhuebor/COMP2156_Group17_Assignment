@@ -17,3 +17,4 @@ How DevOps Enhances SDLC:
 - Increases reliability and quality of software products.
 
 By integrating DevOps into SDLC, organizations can achieve faster development cycles, better collaboration, and higher software quality.
+Fixed a typo.
