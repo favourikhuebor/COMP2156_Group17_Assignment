@@ -12,3 +12,4 @@ This course equips students with essential skills to work efficiently in modern 
 Added a line.
 Edited some text.
 Updated example.
+Minor correction.
