@@ -9,3 +9,4 @@ Course Topics:
 5. Cloud Computing: Deploying applications on cloud platforms like AWS and Azure.
 
 This course equips students with essential skills to work efficiently in modern software development environments.
+Added a line.
