@@ -1,0 +1,4 @@
+COMP 3104 DevOps covers the procedures, protocols and best practices that a DevOps engineer
+brings to a workplace environment to increase productivity.
+It teaches students to analyze and evaluate various developer
+operation implementations available and implement hands-on work using industry standard toolkit.
