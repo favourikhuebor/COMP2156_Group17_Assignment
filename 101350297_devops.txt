@@ -1,0 +1,15 @@
+COMP 3104 - DevOps is a course that focuses on bridging the gap between software development and IT operations. 
+DevOps enhances software development processes by enabling faster and more reliable deployments.
+
+Course Topics:
+1. Fundamentals of DevOps: Continuous Integration (CI) and Continuous Deployment (CD) processes.
+2. Version Control: Using Git and GitHub for branch management and collaboration.
+3. CI/CD Tools: Automation processes using Jenkins, GitHub Actions, and other CI/CD tools.
+4. Containerization: Utilizing Docker and Kubernetes for scalable applications.
+5. Cloud Computing: Deploying applications on cloud platforms like AWS and Azure.
+
+This course equips students with essential skills to work efficiently in modern software development environments.
+Added a line.
+Edited some text.
+Updated example.
+Minor correction.
