@@ -1,0 +1,3 @@
+Software Development Life Cycle (SDLC) is essential for improving efficiency, collaboration, and automation 
+in software development and deployment. 
+It bridges the gap between development and operations teams, ensuring faster and more reliable software releases.
