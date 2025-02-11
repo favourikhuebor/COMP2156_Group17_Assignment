@@ -1,0 +1,9 @@
+George Brown College (GBC) is a public college in Toronto, Canada, offering a variety of programs in business, 
+technology, health sciences, and arts.
+The college offers a variety of credentials across different fields of study, including:
+  Certificates – Short-term programs (typically 1 year or less) providing foundational skills in a specific field.
+  Diplomas – Two- to three-year programs offering in-depth training and hands-on experience in various industries.
+  Advanced Diplomas – Three-year programs with more specialized knowledge and practical training.
+  Degrees – Applied bachelor's degrees (four years) combining theoretical and practical learning.
+  Graduate Certificates – Postgraduate programs (8 months to 1 year) for specialized professional skills.
+  Apprenticeships – Workplace-based training programs combined with in-class instruction for skilled trades.
