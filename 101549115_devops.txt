@@ -2,3 +2,8 @@ COMP 3104 DevOps covers the procedures, protocols and best practices that a DevO
 brings to a workplace environment to increase productivity.
 It teaches students to analyze and evaluate various developer
 operation implementations available and implement hands-on work using industry standard toolkit.
+
+A career in DevOps offers diverse opportunities in software development, IT operations, and cloud infrastructure.
+Professionals can pursue roles such as DevOps Engineer, Site Reliability Engineer (SRE), Cloud Engineer, Release Manager,
+Automation Engineer, and Security Engineer (DevSecOps). Companies seek DevOps professionals to streamline software delivery,
+automate workflows, enhance security, and improve system reliability.
