@@ -16,3 +16,8 @@
 
 ## Project Description
 This project focuses on GitHub collaboration, branching, and continuous integration (CI)
+
+
+## CI/CD Pipeline  
+The GitHub Actions workflow is located in `.github/workflows/ci.yml`.  
+
