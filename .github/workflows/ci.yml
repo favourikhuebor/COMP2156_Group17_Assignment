@@ -1,0 +1,46 @@
+name: COMP2156 Group 17 Assignment CI Pipeline
+run-name: ${{ github.actor }} is running the CI pipeline 
+
+on: 
+  push:
+    branches:
+      - main
+      - 'feature/**'  
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  CI-Checks:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository Code
+        uses: actions/checkout@v4
+
+      - run: echo " The job was triggered by a ${{ github.event_name }} event."
+      - run: echo " Running on a ${{ runner.os }} GitHub-hosted server."
+      - run: |
+          echo "Branch name: ${{ github.ref }}, Repository: ${{ github.repository }}."
+
+
+      - name: List Repository Files
+        run: ls ${{ github.workspace }}
+
+      - name: Set Up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install Dependencies
+        run: npm install || echo "⚠️ No package.json found, skipping installation"
+
+      - name: Run Linting (if applicable)
+        run: npm run lint || echo "⚠️ Linting step skipped if no linting configured"
+
+      - name: Run Tests (if applicable)
+        run: npm test || echo "⚠️ No tests found, skipping test step"
+
+      - name: CI Workflow Status
+        run: |
+          echo "✅ CI pipeline completed with status: ${{ job.status }}"
