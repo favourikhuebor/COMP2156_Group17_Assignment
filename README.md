@@ -2,11 +2,11 @@
 
 ## Group Members
 -   Name: Favour Ikhuebor (Leader) - 101549115 || GitHub Username: @favourikhuebor https://github.com/favourikhuebor
--   Name: Patrick Yee - (put your student id) || GitHub Username: @Patrick3199 (link to your GitHub profile)
--   Name: Farhan Mahtab - (put your student id) || GitHub Username: @farhanmahtab58 (link to your GitHub profile)
--   Name:Emine Oksuzoglu - (put your student id) ||  GitHub Username:@Emine-Okszgl (link to your GitHub profile)
--   Name:Gift Ewemade Osazuwa - (put your student id) || GitHub Username:@Giftomos475 (link to your GitHub profile)
--   Name: Fadime Taskinsoy - (put your student id) || GitHub Username:@FadimeTaskinsoy (link to your GitHub profile)
+-   Name: Patrick Yee - 101524193 || GitHub Username: @Patrick3199 https://github.com/Patrick3199
+-   Name: Farhan Mahtab - 101231154 || GitHub Username: @farhanmahtab58 https://github.com/farhanmahtab58
+-   Name:Emine Oksuzoglu - 101350297 ||  GitHub Username:@Emine-Okszgl https://github.com/Emine-Okszgl
+-   Name:Gift Ewemade Osazuwa - 101246659 || GitHub Username:@Giftomos475 https://github.com/Giftomos475
+-   Name: Fadime Taskinsoy - 101199891 || GitHub Username:@FadimeTaskinsoy https://github.com/FadimeTaskinsoy
 
 ## Project Description
 This assignment project focuses on GitHub collaboration, branching, and continuous integration (CI).
