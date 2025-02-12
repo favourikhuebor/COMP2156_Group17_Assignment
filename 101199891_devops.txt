@@ -1,1 +1,4 @@
 COMP 3104 is a course focused on DevOps principles and practices. It covers topics such as continuous integration, continuous deployment, automation, and cloud computing. The course aims to help students understand the importance of DevOps in modern software development.
+New content 2
+New content 5
+New content 8
