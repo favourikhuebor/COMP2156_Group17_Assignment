@@ -17,7 +17,8 @@ This repository hosts the Group 17 assignment for COMP2156 DevOps course.
    ```bash
    git clone https://github.com/favourikhuebor/COMP2156_Group17_Assignment.git
 
-#### **✅ CI/CD Pipeline (Sürekli Entegrasyon ve Dağıtım)**
+#### **✅ ✅ CI/CD Pipeline (Continuous Integration and Deployment)
+
 ```md
 ## CI/CD Pipeline
 The project utilizes **GitHub Actions** for continuous integration.  
