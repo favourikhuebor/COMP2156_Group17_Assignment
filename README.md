@@ -1,24 +1,12 @@
 # Project Title: COMP2156_Group17_Assignment
 
 ## Group Members
-- **Leader:** Favour Ikhuebor (101549115)  
-  - [GitHub](https://github.com/favourikhuebor)  
-
-- **Patrick Yee** (101524193)  
-  - [GitHub](https://github.com/Patrick3199)  
-
-- **Farhan Mahtab** (101231154)  
-  - [GitHub](https://github.com/farhanmahtab58)  
-
-- **Emine Oksuzoglu** (101350297)  
-  - [GitHub](https://github.com/Emine-Okszgl)  
-
-- **Gift Ewemade Osazuwa** (101246659)  
-  - [GitHub](https://github.com/Giftomos475)  
-
-- **Fadime Taskinsoy** (101199891)  
-  - [GitHub](https://github.com/FadimeTaskinsoy)  
-
+- **"Leader:"** Favour Ikhuebor (101549115) - [GitHub](https://github.com/favourikhuebor) -  
+  **"Member 2:"** Patrick Yee (101524193) - [GitHub](https://github.com/Patrick3199) -  
+  **"Member 3:"** Farhan Mahtab (101231154) - [GitHub](https://github.com/farhanmahtab58) -  
+  **"Member 4:"** Emine Oksuzoglu (101350297) - [GitHub](https://github.com/Emine-Okszgl) -  
+  **"Member 5:"** Gift Ewemade Osazuwa (101246659) - [GitHub](https://github.com/Giftomos475) -  
+  **"Member 6:"** Fadime Taskinsoy (101199891) - [GitHub](https://github.com/FadimeTaskinsoy)
 
 
 ## Project Description
