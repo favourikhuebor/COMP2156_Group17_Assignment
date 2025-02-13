@@ -9,6 +9,12 @@
 -   Name: Fadime Taskinsoy - 101199891 || GitHub Username:@FadimeTaskinsoy https://github.com/FadimeTaskinsoy
 
 ## Project Description
+test-branch
+This project focuses on GitHub collaboration, branching, and continuous integration (CI)
+
+
+## CI/CD Pipeline  
+The GitHub Actions workflow is located in `.github/workflows/ci.yml`.
 This assignment project focuses on GitHub collaboration, branching, and continuous integration (CI).
 This repository hosts the Group 17 assignment for COMP2156 DevOps course.
 
@@ -23,4 +29,5 @@ The project utilizes GitHub Actions for continuous integration. The workflow is 
 ## Branching Strategy 
 Each member has their own branch named `STUDENTID-Name`. 
 All changes are  merged into the `main` branch via Pull Requests. 
+main
 
